@@ -3,8 +3,10 @@ Repository for the 1st Assignment of Machine Learning
 
 
 ## LINKS
- 
+Dataset  
 - Rain in Australia: https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package  
+-----------
+Packages
 - Scikit-Learn: https://scikit-learn.org/stable/index.html
 - Imbalance Learn: https://github.com/scikit-learn-contrib/imbalanced-learn
 - Seaborn: https://seaborn.pydata.org/index.html
@@ -15,7 +17,5 @@ Repository for the 1st Assignment of Machine Learning
 - Cleaning Outliers: https://medium.com/analytics-vidhya/how-to-remove-outliers-for-machine-learning-24620c4657e8
 
 
-### OVERLEAF
-https://www.overleaf.com/project  
 
 
