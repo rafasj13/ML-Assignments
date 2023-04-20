@@ -1,4 +1,4 @@
-# ML-Assigment1
+# Non-probabilistic Classifiers
 Repository for the 1st Assignment of Machine Learning
 
 
