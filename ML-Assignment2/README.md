@@ -1,4 +1,4 @@
-# ML-Assigment2
+# Probabilistic Classifiers
 Repository for the 2nd Assignment of Machine Learning
 
 
